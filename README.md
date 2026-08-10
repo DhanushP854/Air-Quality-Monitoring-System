@@ -85,6 +85,6 @@
 *- Ajil J*
 *- Athul G*
 
-🎓 Project Details: B.Tech Mini Project — 2025, Department of Electronics & Communication Engineering
+*🎓 Project Details: B.Tech Mini Project — 2025, Department of Electronics & Communication Engineering*
 
 *Project Status: Project Successfully Completed and Tested ✅.*
